@@ -1,0 +1,7 @@
+{
+  "name": "HEALX - Precision Care Platform",
+  "description": "HEALX by NEXORA - The Next Era of Healthcare. A digital healthcare ecosystem featuring Doctor & Patient Portals, EMR, Specialist Scheduling, Telemedicine, and Gemini AI Diagnostics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
